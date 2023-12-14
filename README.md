@@ -1,6 +1,8 @@
 # codsoft_task1-2-3
 This repository contains the tasks related web development
 
+Successfully completed all 3 tasks of Level 1.
+
 Task1: Landing page - Designed and implemented a dynamic landing page for 'Skyward Adventures', a travel agency. (HTML5 and CSS3) 
 
 Task2: Portfolio - Created a visually appealing design for my personal portfolio website. (HTML5 and CSS3)
